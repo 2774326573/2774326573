@@ -41,7 +41,6 @@
 
 <div align="center">
   <img height="180em" src="https://gh-stats.com/api?username=2774326573&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://gh-stats.com/api/top-langs/?username=2774326573&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🏆 Featured Projects
