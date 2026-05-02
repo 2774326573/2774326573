@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- 如果公共实例不稳定，你可以部署自己的实例：https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2774326573&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2774326573&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<!-- 总览卡片 -->
+<img height="180em" src="https://gh-stats.com/api?username=2774326573&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<!-- 语言占比卡片 -->
+<img height="180em" src="https://gh-stats.com/api/top-langs/?username=2774326573&layout=compact&langs_count=8&theme=tokyonight"/>
 
 ## 🏆 Featured Projects
 
