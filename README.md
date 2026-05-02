@@ -5,60 +5,77 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=2774326573&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/2774326573?label=Followers&style=social)](https://github.com/2774326573?tab=followers)
 
-
 </div>
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Qt C++ applications and Neovim plugins
-- 🌱 **Learning**: Advanced C++, Qt framework, and Lua scripting
+- 🔭 **Currently working on**: Qt/C++ desktop applications & Neovim plugins
+- 🌱 **Learning**: Advanced C++20/23, Qt 6, and Lua scripting
 - 👯 **Open to collaborate on**: Qt projects, developer tools, and IDE plugins
-- 💬 **Ask me about**: Qt development, C++, Neovim, Linux, and developer productivity
-- 📫 **How to reach me**: Through GitHub issues or discussions
-- ⚡ **Fun fact**: I love automating development workflows and creating tools that make coding more efficient!
+- 💬 **Ask me about**: Qt, C++, Neovim, Linux, and developer productivity
+- 📫 **How to reach me**: GitHub Issues / Discussions
+- ⚡ **Fun fact**: I love automating development workflows and building tools that make coding more efficient
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![wxWidgets](https://img.shields.io/badge/-wxWidgets-2D7DD2?style=flat-square&logo=wxwidgets&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-### Tools & Technologies
+### Tools & Platforms
+
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![2774326573](https://gh-stats.com/api/2774326573)
+<div align="center">
+  <!-- 如果公共实例不稳定，你可以部署自己的实例：https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2774326573&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2774326573&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ## 🏆 Featured Projects
 
+### 📦 [LibDeploy](https://github.com/2774326573/LibDeploy)
+
+> **Windows dependency analysis and packaging tool for desktop applications (wxWidgets + Qt dual frontends)**
+
+**Key Features:**
+- 🔍 PE import table parsing & full dependency tree building
+- 📦 Smart DLL classification (OS / third‑party / redistributables / ApiSet)
+- 🗂️ Resource folder preservation (`assets`, `images`, `scripts`, …)
+- 🧰 One‑click deployment, ZIP packaging, and NSIS installer generation
+- 🎨 Bilingual UI (English / 简体中文) with light/dark/system themes
+
+**Tech Stack:** `C++17` `wxWidgets` `Qt5` `CMake` `NSIS`
+
+---
+
 ### 🎯 [qt-assistant.nvim](https://github.com/2774326573/qt-assistant.nvim)
-### 🎯 [LibDeploy]
-> A comprehensive Neovim plugin for Qt C++ development
+
+> **A comprehensive Neovim plugin for Qt C++ development**
 
 **Key Features:**
 - 🚀 Qt5/Qt6 dual version support with intelligent detection
-- 🎨 Automatic code formatting with clang-format
-- 📜 Project script management with cross-platform compatibility
-- 🏗️ Smart project templates and class generation
+- 🎨 Automatic code formatting via clang-format
+- 📜 Project script management (cross‑platform)
+- 🏗️ Smart project templates & class generation
 - 🔧 Integrated build system support (CMake, qmake, Make)
 
 **Tech Stack:** `Lua` `Qt` `C++` `CMake` `Neovim`
 
 ---
-
-### 💡 Other Notable Work
-- **Cross-platform Qt Applications**: Building desktop applications with modern Qt features
-- **Developer Tools**: Creating productivity tools for C++ and Qt development
-- **Automation Scripts**: Shell scripts for build automation and project management
 
 ## 📈 GitHub Activity
 
