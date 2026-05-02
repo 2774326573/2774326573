@@ -5,6 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=2774326573&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/2774326573?label=Followers&style=social)](https://github.com/2774326573?tab=followers)
 
+![Alt](https://repobeats.axiom.co/api/embed/8a0a1caa71d874bfdd8f9741210a94a205cf18f1.svg "Repobeats analytics image")
+
 </div>
 
 ## 🚀 About Me
