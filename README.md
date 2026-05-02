@@ -21,10 +21,8 @@
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
@@ -38,12 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2774326573&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2774326573&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+![2774326573](https://gh-stats.com/api/2774326573)
 
 ## 🏆 Featured Projects
 
@@ -73,30 +66,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2774326573&theme=tokyo-night&hide_border=true)
 
 </div>
-
-## 🎯 Current Focus
-
-```cpp
-class Developer {
-public:
-    string name = "Wu Yi";
-    vector<string> current_focus = {
-        "Qt Framework Mastery",
-        "Advanced C++ Techniques", 
-        "Neovim Plugin Development",
-        "Cross-platform Development",
-        "Developer Experience (DX)"
-    };
-    
-    void code() {
-        while (learning) {
-            create_useful_tools();
-            share_knowledge();
-            collaborate_with_community();
-        }
-    }
-};
-```
 
 ## 📫 Let's Connect!
 
