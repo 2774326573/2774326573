@@ -82,26 +82,3 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2774326573&theme=tokyo-night&hide_border=true)
 
 </div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2774326573)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **If you find my projects useful, consider giving them a star!** ⭐️
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
-
-<!-- Visitor counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/2774326573/count.svg" />
-</div>
