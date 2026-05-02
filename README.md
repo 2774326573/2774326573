@@ -41,6 +41,7 @@
 ## 🏆 Featured Projects
 
 ### 🎯 [qt-assistant.nvim](https://github.com/2774326573/qt-assistant.nvim)
+### 🎯 [LibDeploy]
 > A comprehensive Neovim plugin for Qt C++ development
 
 **Key Features:**
